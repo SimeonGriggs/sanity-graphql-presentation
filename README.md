@@ -18,7 +18,7 @@ It also shows how to toggle the perspective and visual editing by modifying a co
 - [ ] Integrate Presentation so that the content source map is requested because the site is being loaded in an iframe, not because of a cookie value
 - [ ] Update the guide and this code example to remove the need for cookie handling
 
-## Front-end only examples without Studio or Presentation
+## Front-end only GraphQL-powered Visual Editing examples without Studio or Presentation
 
 See also this example of [Sanity](https://sanity.io/docs), [GraphQL](https://www.sanity.io/docs/graphql), [Content Source Maps](https://www.sanity.io/docs/content-source-maps), [stega encoding and @sanity/overlays](https://www.sanity.io/docs/loaders-and-overlays#61bb7e7fb8fe):
 
